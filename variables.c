@@ -4,6 +4,8 @@
 
 int main() {
 
+// this can be improved by making it interactive to the users
+
     int items = 4;
     float total_price = 499.67;
     char payment_method = 'C';
